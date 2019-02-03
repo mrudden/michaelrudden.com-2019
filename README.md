@@ -9,7 +9,7 @@ Michael has presented at Tanium Converge on building a global discovery and reme
 Michael is always looking for good speaking opportunities, especially within the technology community.
 
 ## Technology
-Michael takes a technology-agnostic approach to ensure the right tools are used to solve the problem at hand. His background in technology spans both cutting-edge technologies and legacy environments.
+Michael takes a technology-agnostic approach to ensure the right tools are used to solve the problem at hand. His approach to technology succeeds with both cutting-edge technologies and legacy environments.
 
 ## Contact
 Use the links above to reach out to Michael.
