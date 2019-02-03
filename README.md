@@ -10,3 +10,6 @@ Michael is always looking for good speaking opportunities, especially within the
 
 ## Technology
 Michael takes a technology-agnostic approach to ensure the right tools are used to solve the problem at hand. His background in technology spans both cutting-edge technologies and legacy environments.
+
+## Contact
+Use the links above to reach out to Michael.
