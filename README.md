@@ -6,5 +6,7 @@ Michael Rudden is a leader in technology, bringing an approach that blends visio
 
 Michael has presented at Tanium Converge on building a global discovery and remediation program for monitoring and improving endpoint security agent coverage globally.
 
+Michael is always looking for good speaking opportunities, especially within the Information Security community.
+
 ## Technology
 Michael takes a technology-agnostic approach to ensure the right tools are used to solve the problem at hand. His background in technology spans both cutting-edge technologies and legacy environments.
