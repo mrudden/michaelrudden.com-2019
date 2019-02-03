@@ -1,3 +1,11 @@
+# About Michael
+
+Michael Rudden is a leader in technology, bringing an approach that blends business savvy with technical understanding. His background includes IT infrastructure and information security, with positions covering strategy and planning, technical design, engineering, and development, and global implementation. Michael has worked at three Fortune 500 companies, including two in the Fortune 50, most recently in the financial services sector.
+
+## About Michael
+
+Michael Rudden is a leader in technology, bringing an approach that blends business savvy with technical understanding. His background includes IT infrastructure and information security, with positions covering strategy and planning, technical design, engineering, and development, and global implementation. Michael has worked at three Fortune 500 companies, most recently in the financial services sector.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mrudden/mrudden.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
