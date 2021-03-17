@@ -8,7 +8,7 @@ Michael has worked at several Fortune 250 companies, most recently in the financ
 
 ## Speaking engagements
 
-Michael has presented at Tanium Converge on building a global discovery and remediation program for monitoring and improving endpoint security agent coverage througout a multinational enterprise.
+Michael has presented at Tanium Converge on building a global discovery and remediation program for monitoring and improving endpoint security agent coverage throughout a multinational enterprise.
 
 He is always looking for good speaking opportunities, especially within the technology community.
 
